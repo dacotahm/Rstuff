@@ -1,3 +1,5 @@
+#subset and sort expression
+
 library(sqldf)
 
 db <- dbConnect(SQLite(), './cuffData.db')
